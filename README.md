@@ -1,7 +1,7 @@
 # SahayakAI — AI Crisis Co-Pilot for Hospitality
 
 > **Google Solution Challenge 2026** — Problem Statement: *Rapid Crisis Response — Accelerated Emergency Response and Crisis Coordination in Hospitality*.
-> Team: **SahayakAI** • Team Leader: **Moni Pachori**.
+> Team: **404 Coders**.
 
 **Live demo:** https://sahayakai-one.vercel.app
 
@@ -124,8 +124,4 @@ npm run dev                   # http://localhost:3000
 
 ## Team
 
-**Moni Pachori** — Team Leader, Full-stack & AI engineering.
-
----
-
-*SahayakAI • Google Solution Challenge 2026 • April 2026*
+**404 Coders**

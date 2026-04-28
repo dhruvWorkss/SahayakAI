@@ -29,8 +29,8 @@ export default function RootLayout({
         </nav>
         <main>{children}</main>
         <footer className="no-print mx-auto max-w-6xl px-6 py-10 text-center text-xs text-zinc-500">
-          SahayakAI • Google Solution Challenge 2026 • Team Moni Pachori •
-          Powered by Gemini 1.5 Flash + Firebase
+          SahayakAI • Google Solution Challenge 2026 • Team 404 Coders •
+          Powered by Gemini 2.5 Flash + Firebase
         </footer>
       </body>
     </html>
