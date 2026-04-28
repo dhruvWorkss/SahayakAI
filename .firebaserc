@@ -1,0 +1,14 @@
+{
+  "projects": {
+    "default": "two-do-60011"
+  },
+  "targets": {
+    "two-do-60011": {
+      "hosting": {
+        "sahayakai": [
+          "sahayakai-crisis"
+        ]
+      }
+    }
+  }
+}
