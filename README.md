@@ -115,13 +115,6 @@ npm run dev                   # http://localhost:3000
 
 ---
 
-## Roadmap (per PPT Slide 12)
-
-- **Phase 2 (3–6 mo):** Live CCTV streams, IoT sensor integration, direct emergency-services API.
-- **Phase 3 (6–12 mo):** Expansion beyond hospitality (malls, airports, stadiums), predictive risk ML, SaaS white-label for hotel chains.
-
----
-
 ## Team
 
 **404 Coders**
