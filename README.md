@@ -110,8 +110,6 @@ npm run dev                   # http://localhost:3000
 | ✅ **Cloud deployment** | Vercel serverless production URL (`sahayakai-one.vercel.app`) |
 | ✅ **Google AI model** | Gemini 2.5 Flash in 3 server-side API routes (text triage, vision, report) |
 | ✅ **Working prototype** | 4 linked screens, real Firestore reads/writes, live cross-device sync |
-| ✅ **Public repo** | This repository |
-| ✅ **Demo video** | See link in PPT Slide 13 |
 
 ---
 
